@@ -1,2 +1,1 @@
-# sixth
-Instacart 데이터 분석
+# Instacart 데이터 분석
